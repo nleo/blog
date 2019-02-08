@@ -247,7 +247,6 @@ DEPENDENCIES
   github-pages
   jekyll-compose
   jekyll-feed
-  minima
 
 BUNDLED WITH
    2.0.1
